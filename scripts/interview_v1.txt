@@ -1,0 +1,12 @@
+Interviewer: Thanks for joining us, Coach. [PAUSE 300ms] Looking back at last season for Syracuse, [PAUSE 200ms] what stood out the most about the team’s performance?
+Coach: The resilience. [PAUSE 300ms] Even in tough stretches, the players stayed locked in. [PAUSE 200ms] That ability to reset after mistakes [PAUSE 150ms] and finish plays late in games [PAUSE 150ms] really defined our season.
+Interviewer: Any specific numbers or moments that made you say, “That’s our identity”?
+Coach: Two things. [PAUSE 250ms] First, our chance creation — we consistently generated quality looks. [PAUSE 200ms] Second, late-game composure. [PAUSE 200ms] In pressure, we communicated better, [PAUSE 150ms] trusted the system, [PAUSE 150ms] and executed.
+Interviewer: What’s the top priority as you prepare for the new season?
+Coach: Consistency. [PAUSE 300ms] We had flashes of brilliance; [PAUSE 150ms] now we want every quarter at that level. [PAUSE 250ms] We’re sharpening conditioning, [PAUSE 150ms] speeding up ball movement, [PAUSE 150ms] and dialing in role clarity so everyone knows exactly where they create the most value.
+Interviewer: And for the fans — what should they expect?
+Coach: Energy, speed, and connected team play. [PAUSE 250ms] We want to build on last year and push deeper into the postseason. [PAUSE 200ms] It’s going to be an exciting ride.
+Interviewer: Coach, thanks for your time.
+Coach: Thank you. [PAUSE 200ms] Always great talking Syracuse lacrosse.
+
+Tip for TTS: keep each speaker line as a single file or per-sentence files; the [PAUSE …] markers are for you and won’t be spoken. Use punctuation and per-line export to create natural gaps.
